@@ -1,0 +1,17 @@
+{
+  "parameters": 10779264,
+  "train_minutes": 7.9,
+  "steps": 5000,
+  "tokens_seen": 81920000,
+  "best_val_loss": 1.1599,
+  "device": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "bf16": true,
+  "config": {
+    "vocab_size": 111,
+    "block_size": 256,
+    "n_layer": 6,
+    "n_head": 6,
+    "n_embd": 384,
+    "dropout": 0.2
+  }
+}
