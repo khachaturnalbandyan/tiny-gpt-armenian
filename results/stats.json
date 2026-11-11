@@ -1,0 +1,9 @@
+{
+  "articles_seen": 15634,
+  "articles_kept": 8333,
+  "characters": 50031803,
+  "megabytes_utf8": 91.7,
+  "vocab_size": 111,
+  "train_tokens": 45028623,
+  "val_tokens": 5003180
+}
